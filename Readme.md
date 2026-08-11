@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Егор Бобров](https://up.htmlacademy.ru/htmlcss-individual/3/user/2631887).
-* Наставник: `Неизвестно`.
+* Наставник: [Екатерина Комнатная](https://htmlacademy.ru/profile/id215761)}.
 
 ---
 
