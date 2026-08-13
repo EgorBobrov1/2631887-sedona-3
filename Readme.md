@@ -2,6 +2,7 @@
 
 * Студент: [Егор Бобров](https://up.htmlacademy.ru/htmlcss-individual/3/user/2631887).
 * Наставник: [Екатерина Комнатная](https://htmlacademy.ru/profile/id215761).
+* Сайт: https://egorbobrov1.github.io/2631887-sedona-3/.
 
 ---
 
